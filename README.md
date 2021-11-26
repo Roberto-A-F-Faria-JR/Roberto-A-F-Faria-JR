@@ -1,7 +1,7 @@
 ## Saudações 🖖 | _Vida longa e próspera._ |
 ### Eae galera sou o **Roberto Junior**, atualmente estou estudando programação. 
 
-- 🔭 _Trabalho com TI dês de 2016_
+- 🔭 _Trabalho com TI desde 2016_
 - 📚 _Autodidata_
 - 📌**Hobbies:** _Tocar violão, jogar, entre outros..._
 - 🎯 **Objetivo:** _Melhorar na programação todos os dias!_
