@@ -4,8 +4,8 @@
 - 🔭 _Trabalho com TI dês de 2016_
 - 📚 _Autodidata_
 - 📌**Hobbies:** _Tocar violão, jogar, entre outros..._
-- 🎯 **Objetivo:** _Melhorar na programação todos os dias!_ 🤓
-
+- 🎯 **Objetivo:** _Melhorar na programação todos os dias!_
+- ⚡ **Fato engraçado:** _Existe mais dinheiro no Monopoly do que na vida real_ 😅
 
 <div>
   <a href="https://github.com/Roberto-A-F-Faria-JR">
@@ -33,4 +33,4 @@
 
   ![Snake animation](https://github.com/Roberto-A-F-Faria-JR/Roberto-A-F-Faria-JR/blob/output/github-contribution-grid-snake.svg)
 
-- ⚡ **Fato engraçado:** _O Flash é sim o mais forte da DC e o Batman o mais preparado!_
+
