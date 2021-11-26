@@ -7,7 +7,9 @@
 - 🎯 **Objetivo:** _Melhorar na programação todos os dias!_
 - ⚡ **Fato engraçado:** _Existe mais dinheiro no Monopoly do que na vida real_ 😅
 
+
 <div>
+
   <a href="https://github.com/Roberto-A-F-Faria-JR">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Roberto-A-F-Faria-JR&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-A-F-Faria-JR&layout=compact&langs_count=7&theme=blue-green"/>   
@@ -31,6 +33,6 @@
   <a href = "mailto:raffjrdev001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/Roberto-A-F-Faria-JR/Roberto-A-F-Faria-JR/blob/output/github-contribution-grid-snake.svg)
+  ![Cara é a cobrinha do nokia](https://github.com/Roberto-A-F-Faria-JR/Roberto-A-F-Faria-JR/blob/output/github-contribution-grid-snake.svg)
 
 
