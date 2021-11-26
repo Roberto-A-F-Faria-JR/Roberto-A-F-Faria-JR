@@ -1,4 +1,4 @@
-## Saudações 🖖 | _A lógica é apenas o princípio da sabedoria, e não o seu fim by: Spock_ |
+## Saudações 🖖 | _A lógica é apenas o princípio da sabedoria, e não o seu fim_ |
 ### Eae galera sou o **Roberto Junior**, atualmente estou estudando programação. 
 
 - 🔭 _Trabalho com TI dês de 2016_
