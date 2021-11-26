@@ -1,12 +1,15 @@
-## Olá! Eu sou o Roberto Junior
+## Saudações 🖖
+### Eae galera sou o **Roberto Junior**, atualmente estou estudando programação. 
 
-- 📚 Estou estudando, HTML, CSS, JAVASCRIPT, PHP & MYSQL
-- 🎯 Meu obijetivo é melhorar na programação todos os dias! 🤓
-- ⚡ Fato engraçado: O Flash é sim o mais forte da DC e o Batman o mais preparado..
+- 🔭 _Trabalho com TI dês de 2016_
+- 📚 _Autodidata_
+- 📌**Hobbies:** _Tocar violão, jogar, entre outros..._
+- 🎯 **Objetivo:** _Melhorar na programação todos os dias!_ 🤓
+
 
 <div>
   <a href="https://github.com/Roberto-A-F-Faria-JR">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Roberto-A-F-Faria-JR&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Roberto-A-F-Faria-JR&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-A-F-Faria-JR&layout=compact&langs_count=7&theme=blue-green"/>   
 </div>
   </div> 
@@ -29,3 +32,5 @@
 </div>
 
   ![Snake animation](https://github.com/Roberto-A-F-Faria-JR/Roberto-A-F-Faria-JR/blob/output/github-contribution-grid-snake.svg)
+
+- ⚡ **Fato engraçado:** _O Flash é sim o mais forte da DC e o Batman o mais preparado!_
