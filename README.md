@@ -27,7 +27,6 @@
 ##
 
 <div>
-  <p font-size:14px; >Entre em contato comigo clicando na imagem</p>
   <a href="https://beacons.ai/robertojunior" target="_blank"><img height="150" width="150" src="https://assets.website-files.com/5f3ed1c27ef5d2773ca1e7be/5f497162dfc5fc1f3cefffa0_full_logo.svg" target="_blank"></a>
 </div>
 
