@@ -15,10 +15,11 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Roberto-A-F-Faria-JR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div> 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Roberto-PHP" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Roberto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Roberto-PHP" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Roberto-Laravel" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Roberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Roberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Roberto-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="Roberto-IMG" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/913794754372845571/913797914269208616/download20211105110920.png">
 </div>
 
