@@ -27,7 +27,8 @@
 ##
 
 <div>
-  <a href="https://beacons.ai/robertojunior" target="_blank"><img height="100" width="100" src="https://assets.website-files.com/5f3ed1c27ef5d2773ca1e7be/5f497162dfc5fc1f3cefffa0_full_logo.svg" target="_blank"></a>
+  <p>⇓⇓ Entre em contato comigo ⇓⇓</p>
+  <a href="https://beacons.ai/robertojunior" target="_blank"><img height="150" width="150" src="https://assets.website-files.com/5f3ed1c27ef5d2773ca1e7be/5f497162dfc5fc1f3cefffa0_full_logo.svg" target="_blank"></a>
 </div>
 
   ![Cara é a cobrinha do nokia](https://github.com/Roberto-A-F-Faria-JR/Roberto-A-F-Faria-JR/blob/output/github-contribution-grid-snake.svg)
