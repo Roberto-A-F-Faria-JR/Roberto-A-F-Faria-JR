@@ -27,11 +27,7 @@
 ##
 
 <div>
-  
-  <a href="https://www.linkedin.com/in/roberto-junior-292268208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/zusdo.tokimoshi.5/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/roberto.a.f.f.junior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:raffjrdev001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://beacons.ai/robertojunior" target="_blank"><img height="40" width="50" src="https://assets.website-files.com/5f3ed1c27ef5d2773ca1e7be/5f497162dfc5fc1f3cefffa0_full_logo.svg" target="_blank"></a>
 </div>
 
   ![Cara é a cobrinha do nokia](https://github.com/Roberto-A-F-Faria-JR/Roberto-A-F-Faria-JR/blob/output/github-contribution-grid-snake.svg)
