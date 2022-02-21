@@ -5,21 +5,18 @@
 
 - 🔭 _Trabalho com TI desde 2016_
 - 📚 _Estudando PHP no momento_
-- 💻 _Me tornando um desenvolvedor_
-- 😋 _Programar é_ **muito bom!**
-- 💬 _Pergunte-me sobre_ **HTML, CSS, PHP**
 - 📌**Hobbies:** _Tocar violão, jogar, entre outros..._
 - 🎯 **Objetivo:** _Melhorar na programação todos os dias!_
 
 
 ## ⚙️ Stack
 <div align="left" style="display: inline_block">
-    <img align="center" alt="Roberto-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Roberto-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Roberto-PHP" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Roberto-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Roberto-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Roberto-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img align="center" alt="Roberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Roberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Roberto-PHP" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Roberto-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Roberto-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Roberto-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
 
 ## 📊 Github Stats
