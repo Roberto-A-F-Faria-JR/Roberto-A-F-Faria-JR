@@ -1,3 +1,5 @@
+  <img align="right" alt="Roberto-IMG" height="500" src="https://cdn.discordapp.com/attachments/913794754372845571/945353808437977128/Cracha.png">
+
 <h1 align="left"><img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />Olá, seja muito bem-vindo ao meu perfil.</h1>
 <p>Atualmente estou apenas estudando programação, não vejo a hora entrar na área.</p>
 
@@ -29,7 +31,7 @@
 
   ![Cara é a cobrinha do nokia](https://github.com/Roberto-A-F-Faria-JR/Roberto-A-F-Faria-JR/blob/output/github-contribution-grid-snake.svg)
 
-## ⚙️ Entre em contato
+## 📞 Entre em contato
 <div align="left">
   <a href="https://beacons.ai/robertojunior"><img height="60" width="60" src="https://assets-global.website-files.com/61734ecee390bd3fe4fbfbb4/61765ca79511431753b38527_Logo-Beacons-Mobile.svg"></a>
 </div>
