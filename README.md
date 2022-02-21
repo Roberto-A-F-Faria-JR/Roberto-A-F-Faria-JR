@@ -1,4 +1,4 @@
-<h1 align="left"><img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />Olá me chamo Roberto Junior</h1>
+<h1 align="left"><img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />Olá, seja muito bem-vindo ao meu perfil.</h1>
 <p>Atualmente estou apenas estudando programação, não vejo a hora entrar na área.</p>
 
 - 🔭 _Trabalho com TI desde 2016_
