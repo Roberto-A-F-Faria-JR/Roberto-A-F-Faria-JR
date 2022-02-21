@@ -30,4 +30,5 @@
 <div align="left">
   <a href="https://beacons.ai/robertojunior"><img height="60" width="60" src="https://assets-global.website-files.com/61734ecee390bd3fe4fbfbb4/61765ca79511431753b38527_Logo-Beacons-Mobile.svg"></a>
 </div>
+  
     ![Cara é a cobrinha do nokia](https://github.com/Roberto-A-F-Faria-JR/Roberto-A-F-Faria-JR/blob/output/github-contribution-grid-snake.svg)
