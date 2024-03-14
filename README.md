@@ -1,4 +1,4 @@
-<img align="right" alt="Roberto-IMG" height="470" src="https://cdn.discordapp.com/attachments/913794754372845571/976137257020973126/Cracha_para_o_GitHub1.png">
+<img align="right" alt="Roberto-IMG" height="470" src="[https://cdn.discordapp.com/attachments/913794754372845571/976137257020973126/Cracha_para_o_GitHub1.png](https://cdn.discordapp.com/attachments/913794754372845571/976137257020973126/Cracha_para_o_GitHub1.png?ex=6602e329&is=65f06e29&hm=117b6619e00ab25a78aa5d97aaf239e20233aad683317d574c7a9a784282ed47&)">
 
 <h1 align="left"><img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" />Olá, seja muito bem-vindo ao meu perfil.</h1>
 <p>Atualmente estou apenas estudando programação, não vejo a hora entrar na área.</p>
