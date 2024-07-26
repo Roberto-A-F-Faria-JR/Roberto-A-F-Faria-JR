@@ -2,11 +2,9 @@
 <p>Trabalho como backend em uma empresa ajudando a cuidar de um sistema legado, e faço o meu melhor para ajudar a equipe que trabalha comigo.</p>
 
 - 🔭 _**Iniciei minha carreira como DEV em 2022**_
-- 📌**Hobbies:** _Leitura, jogos, entre outros..._
+- 📌 **Hobbies:** _Leitura, jogos, entre outros..._
 - 🎯 **Objetivo:** _Melhorar na programação um pouco mais todos os dias!_
-
-_**Observação:** Não tenho enviado novos projetos pois acabo esquecendo, logo logo terá mais projetos nesse perfil_
-<br>
+- ⚠️ _**Observação:** Não tenho enviado novos projetos pois acabo esquecendo, logo logo terá mais projetos nesse perfil_
 
 ## ⚙️ Stacks
 <div align="left" style="display: inline_block; position: static !important;">
@@ -23,7 +21,7 @@ _**Observação:** Não tenho enviado novos projetos pois acabo esquecendo, logo
   <img align="center" alt="Roberto-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </div>
 
-## 📊 Github Stats
+## 📊 Status do Github
 <div align="left">
   <a href="https://github.com/Roberto-A-F-Faria-JR">
     <img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-A-F-Faria-JR&layout=compact&langs_count=7&theme=github_dark"/>   
